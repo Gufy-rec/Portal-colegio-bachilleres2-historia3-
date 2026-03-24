@@ -102,7 +102,7 @@
   font-weight: bold;
   transition: 1.5s;
 }
-.text-ref:hover {
+.text-ref p:hover {
   color: #000000;
   text-shadow: 0 0 20px rgb(255, 123, 0);
 }
