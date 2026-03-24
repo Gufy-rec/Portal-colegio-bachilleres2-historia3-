@@ -95,16 +95,16 @@
   color: #000000;
   text-shadow: 0 0 1px rgb(255, 123, 0);
 }
-.text-ref {
+.text-ref p {
   color: #ffa600;
   font-size: medium;
   text-decoration: none;
   font-weight: bold;
   transition: 1.5s;
 }
-.text-ref:hover {
+.text-ref p:hover {
   color: #000000;
-  text-shadow: 0 0 1px rgb(255, 123, 0);
+  text-shadow: 0 0 20px rgb(255, 123, 0);
 }
 section {
   padding: 20px;
