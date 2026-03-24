@@ -1,4 +1,5 @@
 .fondo {
+  background: red;
   background-image: url('../Imagenes/milagro-fondo.jfif');
   background-size: cover;
   background-position: center;
